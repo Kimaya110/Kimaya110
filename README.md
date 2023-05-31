@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimaya110&label=Profile%20views&color=0e75b6&style=flat" alt="kimaya110" /> </p>
 
 **_<p>“I believe that data are simply summaries of thousands of tales; share a few of them to help make the data more meaningful.”<p>_**
-
-- 🔭 I’m currently working on **Power BI**
+  
+ - 🔭 I’m currently working on **Power BI**
 
 - 🌱 I’m currently learning **Django, ETL tools, ML**
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **Gmail-kimayagabhane1@gmail.com, Twitter- @gabhanekimaya**
 
 - ⚡ Fun fact **I spend almost 3 hours listening to songs, and 1-hour dancing**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,11 +50,13 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimaya110&show_icons=true&locale=en&layout=compact" alt="kimaya110" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimaya110&show_icons=true&locale=en" alt="kimaya110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimaya110&" alt="kimaya110" /></p>
+-->
 
 <!--
 **Kimaya110/Kimaya110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
