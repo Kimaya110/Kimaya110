@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Kimaya Gabhane <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+**<h1 align="center">Hi there I'm Kimaya Gabhane** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimaya110&label=Profile%20views&color=0e75b6&style=flat" alt="kimaya110" /> </p>
 
@@ -6,10 +6,11 @@
   
  - 🔭 I’m currently working on **Power BI**
 
-- 🌱 I’m currently learning **Django, ETL tools, ML**
+- 🌱 I’m currently learning **Django, ETL tools and ML**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
+<!--
 - 🤝 I’m looking for help with **open-sourcing on GitHub**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kimaya110](https://github.com/kimaya110)
@@ -17,6 +18,7 @@
 - 📫 How to reach me **Gmail-kimayagabhane1@gmail.com, Twitter- @gabhanekimaya**
 
 - ⚡ Fun fact **I spend almost 3 hours listening to songs, and 1-hour dancing**
+-->
 
 
 <h3 align="left">Connect with me:</h3>
