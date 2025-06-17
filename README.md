@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Python, SQL, PowerBI etc**
+- 💬 Ask me about **Python,LLM, RAG, Streamlit, FastAPI, OpenCV, NLP, Machine Learning, SQL, PowerBI**
 
 - 📫 How to reach me https://www.linkedin.com/in/kimaya-gabhane/
   
