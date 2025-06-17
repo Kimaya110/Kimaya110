@@ -6,7 +6,7 @@
 
   
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Python, SQL, PowerBI etc**
 
@@ -15,7 +15,7 @@
 <!--
 
 - 🧑‍💻 My Portfolio Website https://gauravchandramasiwal.github.io/portfolio.site/
-- 🔭 I’m currently working on **Power BI**
+- 🔭 I’m currently working on **AI, Python, LLMS, RAG, Prompt Engineering, Machine Learning**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
